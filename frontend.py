@@ -13,7 +13,7 @@ st.title("Machine Failure Prediction using ML")
 
 Input1 = st.number_input("Enter the age of equipment (in days)")
 Input2 = st.number_input("Enter time since maintenance (in days)")
-Input3 = 0
+Input3 = 3494
 Input4 = st.slider("Enter the value of wear and tear (Standardised value b/w 0 and 1)", 0.0, 1.0)
 Input5 = st.number_input("Enter reliability index")
 Input6 = st.number_input("Enter the value of usage frequency")
